@@ -1034,6 +1034,7 @@ A curated list of awesome Java frameworks, libraries and software.
 - [Effective Java (3rd Edition)](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997)
 - [Java Concurrency in Practice](https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601)
 - [Thinking in Java](https://www.amazon.com/Thinking-Java-Edition-Bruce-Eckel/dp/0131872486)
+- [Spark with Java](https://www.manning.com/books/spark-with-java)
 
 ### Podcasts and Screencasts
 
